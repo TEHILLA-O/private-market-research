@@ -2,6 +2,8 @@
 
 A personal investment research dashboard for private use only. Track watchlist companies, view financial metrics and news, document research notes, and run DeepSeek AI analysis with transparent scoring.
 
+See [FAILURES.md](./FAILURES.md) for what can go wrong, what broke, how it was fixed, and results.
+
 **This app is not financial advice.** All outputs are for private research purposes only.
 
 ## Features (MVP)
